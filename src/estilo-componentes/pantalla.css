@@ -1,0 +1,17 @@
+.display{
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    flex: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: white;
+    font-size: 30px;
+    padding: 10px;
+    padding-right: 20px;
+    font-weight: bolder;
+    color: black;
+    border: 3px solid black;
+    margin: 5px;
+}
